@@ -1,0 +1,43 @@
+{
+  "name": "commodus",
+  "version": "1.0.0",
+  "description": "Convenient, Commodious Utility Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || 0"
+  },
+  "engines": {
+    "node": ">=6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerekSeverson/commodus.git"
+  },
+  "keywords": [
+    "commodus",
+    "commodious",
+    "utility",
+    "util",
+    "lodash",
+    "is"
+  ],
+  "author": "Derek Severson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DerekSeverson/commodus/issues"
+  },
+  "homepage": "https://github.com/DerekSeverson/commodus#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "is-stream": "^1.1.0",
+    "jsonwebtoken": "^7.3.0",
+    "lodash": "^4.17.4",
+    "randomstring": "^1.1.5",
+    "uuid": "^3.0.1",
+    "yn": "^1.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
