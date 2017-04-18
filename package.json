@@ -9,6 +9,9 @@
   "engines": {
     "node": ">=6.3"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DerekSeverson/commodus.git"
