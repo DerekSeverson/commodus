@@ -7,7 +7,7 @@
     "test": "mocha || 0"
   },
   "engines": {
-    "node": ">=6.3"
+    "node": ">=6.4"
   },
   "files": [
     "index.js"
